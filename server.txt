@@ -3,3 +3,4 @@ Aproval system
 This Command is paid bro
 you need the aproval first
 1|0|2|5|7|u|0|_|a|2|5|7
+1|0|2|1|2|u|0|_|a|2|1|2
